@@ -1,2 +1,5 @@
 google.com, pub-6057127903537668, DIRECT, f08c47fec0942fa0
 facebook.com, 269075983840573, DIRECT, c3e20eee3f780d68
+vungle.com,69ad3b058bd5a04249ce9692,DIRECT,c107d686becd2d77
+unity.com, 10084, DIRECT, 96cabb5fbdde37a7
+ironsrc.com, 164378, DIRECT, 79929e88b2ba73bc
