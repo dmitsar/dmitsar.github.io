@@ -768,3 +768,6 @@ adform.com, 3393, RESELLER, 9f5210a2f0999e32
 video.unrulymedia.com, 201313863, RESELLER, 98c21ef9a666c68b
 smartadserver.com, 3713, RESELLER, 060d053dcf45cbf3
 smaato.com, 1100059831, RESELLER, 07bcf65f187117b4
+
+eskimi.com,2020001211,RESELLER
+kargo.com,9101,RESELLER,98ccdd9948ed08da
