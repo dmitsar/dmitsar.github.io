@@ -898,3 +898,9 @@ smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
 
 # Added by Universe Panel - Unity Ads
 start.io, 131192070, RESELLER
+
+# Added by Universe Panel - ironSource / LevelPlay
+monetrix.ai, 10697, RESELLER
+
+# Added by Universe Panel - Unity Ads
+monetrix.ai, 10761, RESELLER
