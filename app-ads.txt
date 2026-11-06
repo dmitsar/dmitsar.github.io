@@ -904,3 +904,6 @@ monetrix.ai, 10697, RESELLER
 
 # Added by Universe Panel - Unity Ads
 monetrix.ai, 10761, RESELLER
+
+# Added by Universe Panel - Unity Ads
+playdigo.com, 1965, RESELLER
